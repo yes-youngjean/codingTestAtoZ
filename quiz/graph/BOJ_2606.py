@@ -47,5 +47,3 @@ def bfs(graph, start_v):
 
 print('bfs: ', bfs(graph, 1))
 print('dfs: ', dfs(1))
-
-
